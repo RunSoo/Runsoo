@@ -13,6 +13,7 @@
 <div>I graduated from Sungkyunkwan University in 2023. I double-majored in chemistry🧪 and child psychology👶🏻. I wrote my graduation thesis on "Structural Design of Mesoporous Silica Materials Using Amphiphilic Block Copolymers and its Analysis". In my paper, I built an Artificial Intellectual(AI) model using CNN(convoluitonal neural network) deep learning to determine the structure of the mesoporous materials I manufactured using its XRD(X-ray diffraction) pattern image. </div>
 <br/>
 <div> By integrative thinking using my knowledge and interests in various fields, I was able to obtain some unique outcomes. I also participated in an interaction science labratory as an undergraduate research student briefly and researched the topic of the usage of kiosk of elderly, and what modality is more accessible and comfortable amongst them. Due to this experience, I became interested in developing programs that is intuitive for everyone. </div>
+<br/>
 <div>Currently, I am participating in SSAFY(Samsung Software Academy For Youth) and learning web programming and software engineering. I am thrilled to be in such a great offer and willing to make this chance into a major step towards working hard and a big advancement to achieve my goal to be a developer that makes programs that scientifically and psychologically effiecient and useful.  </div>
 <br/>
 <div>Please keep an eye out for my remarkable growth and unique process!🤗</div>
