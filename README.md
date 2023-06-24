@@ -1,6 +1,6 @@
 <!--# Runsoo 🏃‍♀️-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFECEC,100:E1AEFF&height=225&section=header&text=About%20Runsoo&fontSize=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFFAD7,100:FFE4A7&height=225&section=header&text=About%20Runsoo&fontSize=62" />
 <h4>A pleasure to meet you! I am a developer who tries to learn and run🏃‍♀️ (programs) nonstop. </h4>
 
 
