@@ -1,5 +1,5 @@
 <div >
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:d8fecd,100:fef8e1&height=120&text=RunSoo&animation=&fontColor=ebbdbd&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:d8fecd,100:fef8e1&height=120&text=🌼RunSoo🌼&animation=&fontColor=ebbdbd&fontSize=50" />
     </div>
     <div> 
     <h4>🦈 FrontEnd Developer </h4>
